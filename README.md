@@ -1,5 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building production-grade web and mobile applications using React, Next.js, React Native, and Node.js, with a strong focus on scalability, performance, and clean architecture. Currently contributing to a live international startup (TrueVows – Ireland).<br><br>👯 I’m looking to collaborate on<br>Open-source projects, Fintech / SaaS platforms, frontend-heavy products, and systems that value clean UI, performance optimization, and real-world impact.<br><br>🤝 I’m looking for help with<br>Advanced system design discussions, large-scale frontend architecture, and best practices for building high-traffic, secure applications.<br><br>🌱 I’m currently learning<br>Advanced system design, microservices patterns, performance optimization techniques, and improving DSA & problem-solving for scalable engineering.<br><br>💬 Ask me about<br>React & Next.js, MERN stack, REST APIs, authentication systems (JWT, RBAC), React Native apps, frontend performance optimization, and building products from idea → production.<br><br>⚡ Fun fact<br>I’ve solved 300+ DSA problems, love breaking complex systems into simple components, and I care as much about code readability as I do about performance.
+<h1 align="center">Akshat Bhandari</h1>
+<p align="center">
+  Full-Stack Developer • React • Next.js • React Native • Node.js
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-bhandari-132032231/" target="_blank">LinkedIn</a> •
+  <a href="mailto:developer.akshatb@gmail.com">Email</a> •
+  <a href="https://github.com/Akshat23232">GitHub</a>
+</p>
+
+---
+
+## About
+
+I am a **Full-Stack Developer** with hands-on experience building **production-grade web and mobile applications**.  
+My work focuses on **clean architecture, performance optimization, and scalable system design**.
+
+I currently contribute to a **live international startup (TrueVows – Ireland)**, working across **web, Android, and iOS platforms**, collaborating closely with product and engineering teams to deliver reliable, user-focused solutions.
+
+---
+
+## Professional Focus
+
+- **Frontend Engineering:** React.js, Next.js, React Native  
+- **Backend Development:** Node.js, Express.js, RESTful APIs  
+- **Architecture:** Scalable systems, modular design, performance optimization  
+- **Security:** Authentication & authorization (JWT, RBAC)
+
+---
 
 
 ## 🌐 Socials:
