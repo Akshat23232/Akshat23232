@@ -1,6 +1,6 @@
 <h1 align="center">Akshat Bhandari</h1>
 <p align="center">
-  Full-Stack Developer • React • Next.js • React Native • Node.js
+ Agentic AI Full-Stack Developer | Designing autonomous, AI-driven applications 
 </p>
 
 <p align="center">
